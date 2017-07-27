@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CodeHeistBuild.data.unityweb",
+"asmCodeUrl": "CodeHeistBuild.asm.code.unityweb",
+"asmMemoryUrl": "CodeHeistBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "CodeHeistBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
